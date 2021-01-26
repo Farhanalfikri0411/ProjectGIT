@@ -25,7 +25,7 @@ public class BinarySearch {
       int nilai;
       int indek;
       
-      System.out.prinln("===================");	
+
 
       Scanner s = new Scanner(System.in);
       System.out.println("Masukkan Jumlah Value");
